@@ -1,0 +1,2 @@
+- My name is SangYeob Kim, and I am a graduate of Information Systems
+- I do mild bit of coding mostly in python.
